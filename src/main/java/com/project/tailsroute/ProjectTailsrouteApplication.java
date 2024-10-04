@@ -10,6 +10,7 @@ public class ProjectTailsrouteApplication {
 		System.out.println("Hello World");
 		System.out.println("test JBY");
 		System.out.println("test JBY test JBY test JBY");
+		System.out.println("test3 JBY");
 		SpringApplication.run(ProjectTailsrouteApplication.class, args);
 	}
 }
